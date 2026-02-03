@@ -45,7 +45,7 @@ med_hackathon/
 
 ---
 
-### 🔹 `infer.py`
+### 🔹 `infer_seg.py`
 - Used for **model inference and visualization**
 - Generates:
   - Original dental X-ray
@@ -86,4 +86,4 @@ med_hackathon/
 python train_seg.py
 
 Run Inference & Generate Visualizations
-python infer.py
+python infer_seg.py
